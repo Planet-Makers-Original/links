@@ -1,4 +1,4 @@
-const username = '2KAbhishek';
+const username = 'Planet-Makers-Original';
 const linkList = document.querySelector('.link-list');
 const linksSection = document.querySelector('.links');
 const filterInput = document.querySelector('.filter-links');
@@ -58,7 +58,7 @@ const links = [
     {
         name: 'Mail',
         description: 'Want to talk? Write me a mail',
-        url: 'mailto:iam2kabhishek@gmail.com',
+        url: 'mailto:contato@planetmakers.com.br',
         icon: 'fa-brands fa-telegram',
         color: '#0088cc'
     },
@@ -72,7 +72,7 @@ const links = [
     {
         name: 'Resume',
         description: 'What I have done so far',
-        url: 'https://github.com/2kabhishek/resume/blob/main/resume.pdf',
+        url: 'https://github.com/Planet-Makers-Original/resume/blob/main/resume.pdf',
         icon: 'fa-brands fa-wpforms',
         color: '#008abd'
     },
@@ -100,21 +100,21 @@ const links = [
     {
         name: 'Blog',
         description: 'About things I build and learn',
-        url: 'https://2kabhishek.github.io/blog',
+        url: 'https://Planet-Makers-Original.github.io/blog',
         icon: 'fa-brands fa-blogger',
         color: '#f57c00'
     },
     {
         name: 'Portfolio',
-        description: '/home/2kabhishek',
-        url: 'https://2kabhishek.github.io',
+        description: '/home/Planet-Makers-Original',
+        url: 'https://Planet-Makers-Original.github.io',
         icon: 'fa-brands fa-fort-awesome',
         color: '#1688f0'
     },
     {
         name: 'Projects',
         description: 'All my projects!',
-        url: 'https://2kabhishek.github.io/projects',
+        url: 'https://Planet-Makers-Original.github.io/projects',
         icon: 'fa-brands fa-product-hunt',
         color: '#da552f'
     },
