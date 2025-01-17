@@ -1,24 +1,24 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/links">links</a></h1>
+<h1><a href="https://Planet-Makers-Original/links">links</a></h1>
 
-<a href="https://github.com/2KAbhishek/links/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/links?style=flat&color=eee&label="> </a>
+<a href="https://github.com/Planet-Makers-Original/links/blob/main/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/Planet-Makers-Original/links?style=flat&color=eee&label="> </a>
 
-<a href="https://github.com/2KAbhishek/links/graphs/contributors">
-<img alt="People" src="https://img.shields.io/github/contributors/2kabhishek/links?style=flat&color=ffaaf2&label=People"> </a>
+<a href="https://github.com/Planet-Makers-Original/links/graphs/contributors">
+<img alt="People" src="https://img.shields.io/github/contributors/Planet-Makers-Original/links?style=flat&color=ffaaf2&label=People"> </a>
 
-<a href="https://github.com/2KAbhishek/links/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/links?style=flat&color=98c379&label=Stars"></a>
+<a href="https://github.com/Planet-Makers-Original/links/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/Planet-Makers-Original/links?style=flat&color=98c379&label=Stars"></a>
 
-<a href="https://github.com/2KAbhishek/links/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/links?style=flat&color=66a8e0&label=Forks"> </a>
+<a href="https://github.com/Planet-Makers-Original/links/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/Planet-Makers-Original/links?style=flat&color=66a8e0&label=Forks"> </a>
 
-<a href="https://github.com/2KAbhishek/links/watchers">
-<img alt="Watches" src="https://img.shields.io/github/watchers/2kabhishek/links?style=flat&color=f5d08b&label=Watches"> </a>
+<a href="https://github.com/Planet-Makers-Original/links/watchers">
+<img alt="Watches" src="https://img.shields.io/github/watchers/Planet-Makers-Original/links?style=flat&color=f5d08b&label=Watches"> </a>
 
-<a href="https://github.com/2KAbhishek/links/pulse">
-<img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/links?style=flat&color=e06c75&label="> </a>
+<a href="https://github.com/Planet-Makers-Original/links/pulse">
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/Planet-Makers-Original/links?style=flat&color=e06c75&label="> </a>
 
 <h3>Present your links in style 🔗🔮</h3>
 
@@ -40,14 +40,14 @@ Present all your links in style with an easily accessible and highly customizabl
 
 ## Inspiration
 
-Needed a place to display all my profiles, used my [project's repo](https://2kabhishek.github.io/projects) as inspiration.
+Needed a place to display all my profiles, used my [project's repo](https://Planet-Makers-Original.github.io/projects) as inspiration.
 
 ## Getting links
 
 To get links, follow these steps:
 
 ```bash
-git clone https://github.com/2kabhishek/links
+git clone https://github.com/Planet-Makers-Original/links
 cd links
 ```
 
@@ -105,7 +105,7 @@ Although, the original purpose of links is to create a web app for your profiles
 
 ## Viewing links
 
-Open `index.html` in your favorite browser or visit [2kabhishek.github.io/links](https://2kabhishek.github.io/links).
+Open `index.html` in your favorite browser or visit [Planet-Makers-Original.github.io/links](https://Planet-Makers-Original.github.io/links).
 
 ## How it was built
 
@@ -127,6 +127,6 @@ Hit the ⭐ button if you found this useful.
 
 <div align="center">
 
-<a href="https://github.com/2KAbhishek/links">Source</a> | <a href="https://2kabhishek.github.io/links">Website</a>
+<a href="https://github.com/Planet-Makers-Original/links">Source</a> | <a href="https://Planet-Makers-Original.github.io/links">Website</a>
 
 </div>
