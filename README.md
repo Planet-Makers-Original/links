@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://Planet-Makers-Original/links">links</a></h1>
+<h1><a href="https://planet-makers-original.github.io/links">links</a></h1>
 
 <a href="https://github.com/Planet-Makers-Original/links/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/Planet-Makers-Original/links?style=flat&color=eee&label="> </a>
